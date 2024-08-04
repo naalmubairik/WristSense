@@ -1,4 +1,4 @@
-Key Features
+Key Features 
 	•	Health Data Extraction: WristSense systematically extracts health data from diverse sources of wrist-worn devices, ensuring compatibility with various vendors including Huawei, Amazfit, and Xiaomi
 	•	Comprehensive Analysis: The tool analyzes health data to provide insights that can be used to reconstruct detailed timelines of events and individuals involved in a given scenario.
 	•	Forensic Soundness: Ensures that the extracted data is forensically sound and suitable for legal proceedings.
