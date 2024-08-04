@@ -9,10 +9,10 @@ Usage
 	2	Analysis: Run the analysis scripts containing “Plotting” to analyze and visulise data and generate insights.
 
 Contributions
-  Contributions to WristSense are welcome. Please fork the repository, make your changes, and submit a pull request. Ensure that your code follows the established coding standards and is well-documented.
+  		Contributions to WristSense are welcome. Please fork the repository, make your changes, and submit a pull request. Ensure that your code follows the established coding standards and is well-documented.
 
 Contact
-  For any questions or support, please contact the primary investigator:
+  		For any questions or support, please contact the primary investigator:
 	•	Norah  Almubairik
 	◦	Department of Computer and Information Science, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia
 	◦	Email: g201902170@kfupm.edu.sa
